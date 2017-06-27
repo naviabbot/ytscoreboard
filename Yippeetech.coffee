@@ -3,7 +3,7 @@
 		{
 			"column":       0
 			"label":        "TrustPilot .us"
-			"value":        "7.4"
+			"value":        "7.3"
 		},
 		{
 			"column":       0
