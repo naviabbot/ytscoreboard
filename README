@@ -1,0 +1,7 @@
+YT Scoreboard is a scoreboard written for HUBBLE.
+
+To install, you need the latest version of Node.js (see nodejs.org for instructions) and npm to install Hubble. (sudo npm install -g hubble)
+
+Once Node.js and Hubble have been installed, simply run hubble Yippeetech.coffee.
+
+You can edit Yippeetech.coffee or you can live update it through curl. The former is preferred. Note, you will have to 'q' out and then restart.
