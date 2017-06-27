@@ -28,7 +28,7 @@
 		{
 			"column":       1
 			"label":        ".us Percentage of Bad Reviews"
-			"value":        "16.5%"
+			"value":        "17.1%"
 		},
 		{
 			"column":       1
