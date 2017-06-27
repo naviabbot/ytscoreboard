@@ -3,7 +3,7 @@
 		{
 			"column":       0
 			"label":        "TrustPilot .us"
-			"value":        "7.1"
+			"value":        "6.9"
 		},
 		{
 			"column":       0
@@ -18,7 +18,7 @@
 		{
 			"column":       0
 			"label":        "Google"
-			"value":        "4.1"
+			"value":        "4.0"
 		},
 		{
 			"column":       0
@@ -28,7 +28,7 @@
 		{
 			"column":       1
 			"label":        ".us Percentage of Bad Reviews"
-			"value":        "17.1%"
+			"value":        "18.1%"
 		},
 		{
 			"column":       1
