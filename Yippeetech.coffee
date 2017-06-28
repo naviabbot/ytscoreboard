@@ -2,23 +2,23 @@
 	"data": [
 		{
 			"column":       0
-			"label":        "TrustPilot .us"
-			"value":        "6.9"
+			"label":        "yippeetech.us (TrustPilot)"
+			"value":        "7.4"
 		},
 		{
 			"column":       0
-			"label":        "TrustPilot .net"
-			"value":        "2.1"
+			"label":        "yippeetech.net (TrustPilot)"
+			"value":        "2.0"
 		},
 		{
 			"column":       0
-			"label":        "TrustPilot .co.uk"
+			"label":        "yippeetech.co.uk (TrustPilot)"
 			"value":        "4.9"
 		},
 		{
 			"column":       0
 			"label":        "Google"
-			"value":        "4.0"
+			"value":        "4.1"
 		},
 		{
 			"column":       0
@@ -27,17 +27,17 @@
 		}
 		{
 			"column":       1
-			"label":        ".us Percentage of Bad Reviews"
-			"value":        "18.1%"
+			"label":        ".us % of Bad Reviews"
+			"value":        "14.5%"
 		},
 		{
 			"column":       1
-			"label":        ".co.uk Percentage of Bad Reviews"
+			"label":        ".net % of Bad Reviews"
 			"value":        "100%"
 		},
 		{
 			"column":       1
-			"label":        ".net Percentage of Bad Reviews"
+			"label":        ".co.uk % of Bad Reviews"
 			"value":        "100%"
 		}
 	]
